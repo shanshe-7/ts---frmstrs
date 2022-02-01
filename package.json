@@ -1,0 +1,14 @@
+{
+  "name": "ts-frtmstrs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "devDependencies": {
+    "typescript": "4.5.5"
+  },
+  "scripts": {
+    "dev": "tsc --watch --preserveWatchOutput"
+  },
+  "author": "Shanshe Kenkadze",
+  "license": "ISC"
+}
